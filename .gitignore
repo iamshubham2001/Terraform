@@ -1,0 +1,9 @@
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+
+# Environment variables
+.env
